@@ -1,4 +1,4 @@
-# Mental Health App
+# Mingo - Mental Health App
 This is an AI Chatbot Mental Health App designed to provide emotional support to individuals struggling with loneliness, sadness, depression, or stress. The app's key feature is an AI chatbot that can talk to users and provide them with emotional support and guidance.
 
 ## Features
